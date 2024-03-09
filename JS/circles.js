@@ -11,4 +11,4 @@ setInterval(()=>{
     hh.style.strokeDashoffset = 510 - (h*510)/12;
     mm.style.strokeDashoffset = 630 - (m*630)/60;
     ss.style.strokeDashoffset = 760 - (s*760)/60;
-})
+});
